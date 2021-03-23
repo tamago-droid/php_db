@@ -13,7 +13,7 @@
     $date=$_POST["date"];
     $pass=$_POST["pass"];
     $feeling=$_POST["feeling"];
-    // 
+    // 表示／非表示の設定
     $_POST["feeling"]=="good"."bad"?"checked":"";
 　　
     ?>
