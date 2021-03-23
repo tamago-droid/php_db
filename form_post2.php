@@ -13,8 +13,8 @@
     $date=$_POST["date"];
     $pass=$_POST["pass"];
     $feeling=$_POST["feeling"];
-    $_POST["feeling"]=="いい感じ"?"checked":"";
-    $_POST["feeling"]=="調子悪いわ～"?"checked":"";
+    // 
+    $_POST["feeling"]=="good"."bad"?"checked":"";
 　　
     ?>
 
